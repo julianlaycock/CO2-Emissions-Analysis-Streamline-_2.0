@@ -192,20 +192,6 @@ Gap = Target Reduction (45% by 2030) - Actual Reduction
 
 ---
 
-## 🎓 Skills Demonstrated
-
-This project showcases proficiency in:
-
-- **Data Analysis**: Complex data manipulation, statistical calculations
-- **Machine Learning**: Predictive modeling, confidence interval estimation
-- **Data Visualization**: Interactive dashboards, multi-chart layouts
-- **Python Programming**: Object-oriented design, modular architecture
-- **Web Development**: Streamlit framework, responsive layouts
-- **Domain Knowledge**: Climate science, policy analysis
-- **Communication**: Executive summaries, insight generation
-
----
-
 ## 🔮 Future Enhancements
 
 ### Phase 2 (In Progress)
@@ -259,18 +245,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- **Our World in Data** - For providing comprehensive, open-access CO₂ emissions data
-- **Streamlit** - For the excellent web application framework
-- **Plotly** - For powerful interactive visualization capabilities
-- **Climate science community** - For ongoing research and public data availability
+- GitHub: [@julianlaycock](https://github.com/julianlaycock)
+- Email: julianlaycock@hotmail.com
 
 ---
 
@@ -283,22 +259,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
-
-Have questions or suggestions? Feel free to:
-- Open an issue in this repository
-- Send me an email at your.email@example.com
-- Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
 <div align="center">
 
 **⭐ Star this repository if you found it helpful!**
 
 Built with ❤️ for climate action and data-driven decision making
 
-[Report Bug](https://github.com/yourusername/co2-emissions-dashboard/issues) · [Request Feature](https://github.com/yourusername/co2-emissions-dashboard/issues)
+[Report Bug](https://github.com/julianlaycock/CO2-Emissions-Analysis-Streamline-_2.0) · [Request Feature](https://github.com/julianlaycock/CO2-Emissions-Analysis-Streamline-_2.0)
 
 </div>
 
@@ -320,4 +287,4 @@ Built with ❤️ for climate action and data-driven decision making
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: 24 December 2024*
